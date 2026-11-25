@@ -1,0 +1,14 @@
+"name": "bot-joda-random",
+  "version": "1.0.0",
+  "description": "Bot ligero de WhatsApp para practicar: menciones aleatorias sin comandos. Solo uso didactico en grupos de amigos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^9.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
