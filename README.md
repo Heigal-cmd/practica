@@ -1,4 +1,4 @@
-# Bot joda random para WhatsApp (practica)
+# Bot de joda para WhatsApp (practica)
 
 Bot ligero en Node.js + Baileys que **etiqueta personas al azar sin comandos**, en dos modos:
 
